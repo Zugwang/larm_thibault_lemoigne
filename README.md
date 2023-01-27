@@ -3,6 +3,8 @@ Repository projet LARM
 
 Ce projet contient les différents packages liés à l'UV LARM.
 
+Vidéo : https://www.youtube.com/watch?v=wO5_Bc_lHiU&ab_channel=EmileThibault
+
 Développé par :
 - Emile Thibault
 - Quentin Lemoigne
